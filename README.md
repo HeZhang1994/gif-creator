@@ -1,12 +1,12 @@
 # PNG to GIF
 
-This is the Python implementation of coverting .png images to .gif image by using **imageio**.
+This is the Python implementation of generating .gif image.
 
 Functions:
 
-1. Convert .png images to .gif image with each frame has same duration.
+1. Generate .gif image with each frame has same duration time.
 
-2. Convert .png images to .gif image with each frame has different duration.
+2. Generate .gif image with each frame has different duration time.
 
 # Environment
 
