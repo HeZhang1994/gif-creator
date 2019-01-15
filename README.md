@@ -1,6 +1,6 @@
 # PNG to GIF
 
-This is the Python implementation of generating .gif image.
+This is the Python implementation of generating .gif image with .png images.
 
 Functions:
 
@@ -10,13 +10,13 @@ Functions:
 
 # Environment
 
-* __Ubuntu 14.04__
+This code has been tested on **Ubuntu 14.04**.
 
 # Language
 
-* __Python 3.7__
+* __Python 3.7 (3.0+)__
 
-# Dependency
+# Dependencies
 
 * __imageio__
 
