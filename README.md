@@ -26,4 +26,4 @@ Functions:
 
 * __.gif image with SAME frame duration time__
 
-* __.gif image with DIFF frame duration time__
+* __.gif image with DIFFERENT frame duration time__
