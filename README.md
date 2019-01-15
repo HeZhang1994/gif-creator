@@ -26,4 +26,8 @@ Functions:
 
 * __.gif image with SAME frame duration time__
 
+![Equivariance](https://github.com/HeZhang1994/png-to-gif/blob/master/Img_Frames/imgGIF_DIFF.gif)
+
 * __.gif image with DIFFERENT frame duration time__
+
+![Equivariance](https://github.com/HeZhang1994/png-to-gif/blob/master/Img_Frames/imgGIF_SAME.gif)
