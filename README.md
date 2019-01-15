@@ -24,6 +24,6 @@ Functions:
 
 # Demonstration
 
-* __.png images__
+* __.gif image with SAME frame duration time__
 
-* __.gif image__
+* __.gif image with DIFF frame duration time__
