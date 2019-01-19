@@ -25,7 +25,11 @@ This code has been tested on **Ubuntu 16.04**.
 # Demonstration
 
 1. .gif image with **SAME** frame duration time:
+
 ![Equivariance](https://github.com/HeZhang1994/png-to-gif/blob/master/Img_Frames/imgGIF_SAME.gif)
 
+<br>
+
 2. .gif image with **DIFFERENT** frame duration time:
+
 ![Equivariance](https://github.com/HeZhang1994/png-to-gif/blob/master/Img_Frames/imgGIF_DIFF.gif)
