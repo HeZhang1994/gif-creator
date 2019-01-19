@@ -1,8 +1,8 @@
 # PNG to GIF
 
-This is the **Python** implementation of generating .gif image with .png images.
+This is the **Python** implementation of generating .gif image from a collection of .png images.
 
-Functions:
+### Functions:
 
 1. Generate .gif image with each frame has **same** duration time.
 
