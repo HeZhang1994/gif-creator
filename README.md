@@ -1,6 +1,6 @@
 # PNG to GIF
 
-This is the Python implementation of generating .gif image with .png images.
+This is the **Python** implementation of generating .gif image with .png images.
 
 Functions:
 
