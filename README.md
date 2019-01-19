@@ -6,11 +6,11 @@ This is the **Python** implementation of generating .gif image from a collection
 
 1. Generate .gif image with each frame has **same** duration time.
 
-2. Generate .gif image with each frame has **different** duration time.
+2. Generate .gif image with the first and the last frame have **different** duration time.
 
 # Environment
 
-This code has been tested on **Ubuntu 14.04**.
+This code has been tested on **Ubuntu 16.04**.
 
 # Language
 
