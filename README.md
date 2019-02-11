@@ -10,7 +10,7 @@ This is the **Python** implementation of generating .gif image from a collection
 
 ## Environment
 
-This code has been tested on **Ubuntu 16.04**.
+This code has been tested on **Ubuntu 16.04** operating systems.
 
 ## Language
 
