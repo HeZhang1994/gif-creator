@@ -8,21 +8,21 @@ This is the **Python** implementation of generating .gif image from a collection
 
 2. Generate .gif image with the first and the last frame have **different** duration time.
 
-# Environment
+## Environment
 
 This code has been tested on **Ubuntu 16.04**.
 
-# Language
+## Language
 
 * __Python 3.7 (3.0+)__
 
-# Dependencies
+## Dependencies
 
 * __imageio__
 
 * __re__
 
-# Demonstration
+## Demonstration
 
 1. .gif image with **SAME** frame duration time:
 
@@ -34,4 +34,4 @@ This code has been tested on **Ubuntu 16.04**.
 
 ![Equivariance](https://github.com/HeZhang1994/png-to-gif/blob/master/Img_Frames/imgGIF_DIFF.gif)
 
-<i>Last updated: 28/01/2019</i>
+<i>Last updated: 11/02/2019</i>
