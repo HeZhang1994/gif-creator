@@ -2,8 +2,6 @@
 
 This is a **Python** implementation of generating .gif image from a collection of static images.
 
-<i>Please star this repository if you found its content useful.</i>
-
 ### Functions
 
 - Generate .gif image with each frame has **same** duration time.
@@ -30,4 +28,8 @@ The code has been tested on **Ubuntu 16.04** operating system.
 
 ![Equivariance](https://github.com/HeZhang1994/png-to-gif/blob/master/Img_Frames/imgGIF_DIFF.gif)
 
-<i>Last updated: 12/02/2019</i>
+<i>Please star this repository if you found its content useful. Thank you very much.</i>
+
+<i>如果该程序对您有帮助，请为该程序加星支持，谢谢。</i>
+
+<i>Last updated: 14/02/2019</i>
