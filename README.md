@@ -10,7 +10,7 @@ This is a **Python** implementation of generating GIF image from a collection of
 
 ## Environment
 
-The code has been tested on **Ubuntu 16.04** operating system.
+The code has been tested on **Ubuntu 16.04** operating system (and should work well on Windows/MacOS).
 
 ## Language
 
