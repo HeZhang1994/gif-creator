@@ -1,4 +1,4 @@
-# Generating GIF from Static Images
+# Creating GIF Image from Static Images
 
 This is a **Python** implementation for creating GIF image from a collection of static images (e.g., PNG).
 
