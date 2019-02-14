@@ -4,9 +4,9 @@ This is a **Python** implementation for creating GIF image from a collection of 
 
 ### Functions
 
-- Generate GIF image with each frame has **same** duration time.
+- Create GIF image with each frame has **same** duration time.
 
-- Generate GIF image with the first and the last frame have **different** duration time.
+- Create GIF image with the first and the last frame have **different** duration time.
 
 ## Environment
 
@@ -38,6 +38,8 @@ The code has been tested on **Ubuntu 16.04** operating system (and should work w
 - GIF image with **DIFFERENT** frame duration time.
 
 ![Equivariance](https://github.com/HeZhang1994/png-to-gif/blob/master/Img_Frames/imgGIF_DIFF.gif)
+
+</br>
 
 <i>Please star this repository if you found its content useful. Thank you very much.</i>
 
