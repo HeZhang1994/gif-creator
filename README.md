@@ -16,6 +16,17 @@ The code has been tested on **Ubuntu 16.04** operating system.
 
 * __Python 3.7 (3.0+)__
 
+## Usage
+
+1. Specify settings in ```run_GIFCreator.py``` (see instruction on line 6~12).
+
+2. Run ```run_GIFCreator.py``` in Python IDEs or execute the following command in Terminal.
+```bash
+~$ python run_GIFCreator.py
+```
+
+3. The created GIF image will be saved in pre-specified folder (e.g., ```Img_Frames/```).
+
 ## Demonstration
 
 - .gif image with **SAME** frame duration time.
