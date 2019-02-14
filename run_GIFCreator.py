@@ -1,3 +1,6 @@
+## Task discription: 
+## Create GIF image with each frame has same or different duration time.
+
 import imageio, os
 import re  # Regular expression is requred for split file name.
 
@@ -47,3 +50,5 @@ elif tag_type == 2:
         else:
             imgGIF.append(imageio.imread(input_path + imgName))
     imageio.mimsave(input_path + 'imgGIF_DIFF.gif', imgGIF, duration=duration_time)
+
+
