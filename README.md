@@ -8,13 +8,9 @@ This is a **Python** implementation for creating GIF image from a collection of 
 
 - Create GIF image with the first and the last frame have **different** duration time.
 
-## Environment
-
-The code has been tested on **Ubuntu 16.04** operating system (and should work well on Windows/MacOS).
-
-## Language
-
-* __Python 3.7 (3.0+)__
+[![image](https://img.shields.io/badge/license-MIT-lightgrey.svg)]()
+[![image](https://img.shields.io/badge/platform-linux-lightgrey.svg)]()
+[![image](https://img.shields.io/badge/python-3.7-blue.svg)]()
 
 ## Usage
 
@@ -45,5 +41,5 @@ The code has been tested on **Ubuntu 16.04** operating system (and should work w
 
 <i>如果该程序对您有帮助，请为该程序加星支持哈，非常感谢。</i>
 
-<i>Last updated: 15/02/2019</i>
+<i>Last updated: 16/02/2019</i>
 
