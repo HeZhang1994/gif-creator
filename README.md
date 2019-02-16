@@ -1,5 +1,9 @@
 # Creating GIF Image from Static Images
 
+[![image](https://img.shields.io/badge/license-MIT-lightgrey.svg)]()
+[![image](https://img.shields.io/badge/platform-linux-lightgrey.svg)]()
+[![image](https://img.shields.io/badge/python-3.7-blue.svg)]()
+
 This is a **Python** implementation for creating GIF image from a collection of static images (e.g., PNG).
 
 ### Functions
@@ -7,10 +11,6 @@ This is a **Python** implementation for creating GIF image from a collection of 
 - Create GIF image with each frame has **same** duration time.
 
 - Create GIF image with the first and the last frame have **different** duration time.
-
-[![image](https://img.shields.io/badge/license-MIT-lightgrey.svg)]()
-[![image](https://img.shields.io/badge/platform-linux-lightgrey.svg)]()
-[![image](https://img.shields.io/badge/python-3.7-blue.svg)]()
 
 ## Usage
 
