@@ -5,7 +5,7 @@
 [![image](https://img.shields.io/badge/status-stable-brightgreen.svg)]()
 [![image](https://img.shields.io/badge/build-passing-brightgreen.svg)]()
 
-This is a **Python** implementation for creating GIF image from a collection of static images (e.g., PNG).
+This is a **Python** implementation for creating GIF image from a collection of static images (e.g., PNG) and vidualize your experimental results in an effective manner.
 
 ### Functions
 
