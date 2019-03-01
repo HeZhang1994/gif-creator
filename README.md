@@ -7,7 +7,7 @@
 
 This is a **Python** implementation of creating GIF image from a collection of static images (e.g., PNG images).
 
-## Functions
+## Function
 
 - Create GIF image with each frame having the **same** duration time.
 
