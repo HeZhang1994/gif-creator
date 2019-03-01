@@ -15,13 +15,13 @@ This is a **Python** implementation of creating GIF image from a collection of s
 
 ## Usage
 
-1. Prepare a collection of static images (with ordered names) in a folder (e.g., ```Img_Frames/```).
+1. Prepare a series of static images (with ordered names) in a folder (e.g., ```Img_Frames/```).
 
-2. Specify user settings in ```run_GIFCreator.py``` (see comments for details).
+2. Specify user settings (e.g., duration time) in ```run_GIFCreator.py``` (see comments for details).
 
 2. Run ```run_GIFCreator.py```.
 
-3. The created GIF image will be saved in specified folder (i.e., ```Img_Frames/```).
+3. The created GIF image will be saved in the specified folder (i.e., ```Img_Frames/```).
 
 ## Demonstration
 
