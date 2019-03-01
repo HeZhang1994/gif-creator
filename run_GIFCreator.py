@@ -16,6 +16,7 @@ tag_type = 1  # Set the pattern of creating GIF image.
 # tag_type = 1 - Create GIF image with each frame having the same duration time.
 # tag_type = 2 - Create GIF image with each frame having different duration time.
 
+
 ## Create GIF image.
 
 print('\nStart creating GIF image...')
