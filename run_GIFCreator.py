@@ -1,6 +1,6 @@
 ### Task description: Create GIF image with each frame having user specified duration time.
 
-import imageio, os
+import os, imageio
 import re  # Regular expression is required for split file names.
 
 
