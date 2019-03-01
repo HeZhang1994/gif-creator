@@ -5,24 +5,23 @@
 [![image](https://img.shields.io/badge/status-stable-brightgreen.svg)]()
 [![image](https://img.shields.io/badge/build-passing-brightgreen.svg)]()
 
-This is a **Python** implementation of creating GIF image from a collection of static images (e.g., PNG).
+This is a **Python** implementation of creating GIF image from a collection of static images (e.g., PNG images).
 
 ## Functions
 
-- Create GIF image with each frame has the **same** duration time.
+- Create GIF image with each frame having the **same** duration time.
 
-- Create GIF image with the first and the last frame have **different** (long) duration time.
+- Create GIF image with the first frame and the last frame having **different** (long) duration time.
 
 ## Usage
 
-1. Specify settings in ```run_GIFCreator.py``` (see instruction on line 6~12).
+1. Prepare a collection of static images (with ordered names) in a folder (e.g., ```Img_Frames/```).
 
-2. Run ```run_GIFCreator.py``` in Python IDEs or execute the following command in Terminal.
-```bash
-~$ python run_GIFCreator.py
-```
+2. Specify user settings in ```run_GIFCreator.py``` (see comments for details).
 
-3. The created GIF image will be saved in pre-specified folder (e.g., ```Img_Frames/```).
+2. Run ```run_GIFCreator.py```.
+
+3. The created GIF image will be saved in specified folder (i.e., ```Img_Frames/```).
 
 ## Demonstration
 
