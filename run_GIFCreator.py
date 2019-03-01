@@ -4,7 +4,7 @@ import os, imageio
 import re  # Regular expression is required for split file names.
 
 
-## User Settings
+## Specify user settings.
 
 input_path = 'Img_Frames/'  # Set input image folder.
 img_extension = '.png'  # Set the format of input images.
