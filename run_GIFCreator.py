@@ -1,4 +1,4 @@
-### Task description: Create GIF image with each frame having user specified duration time.
+### Function: Create GIF image with each frame having user specified duration time.
 
 import os, imageio
 import re  # Regular expression is required for split file names.
@@ -6,13 +6,20 @@ import re  # Regular expression is required for split file names.
 
 ## Specify user settings.
 
-input_path = 'Img_Frames/'  # Set input image folder.
-img_extension = '.png'  # Set the format of input images.
+# Set input image folder.
+input_path = 'Img_Frames/'
 
-duration_time = 0.5  # Set the duration time of each frame/image.
-num_repeat = 3  # Set the repeating time of the first and the last frames/images (time x3).
+# Set the format of input images.
+img_extension = '.png'
 
-tag_type = 1  # Set the pattern of creating GIF image.
+# Set the duration time of each image/frame.
+duration_time = 0.5
+
+# Set the repeating time of the first and the last images/frames.
+num_repeat = 3
+
+# Set the pattern of creating GIF image.
+tag_type = 1
 # tag_type = 1 - Create GIF image with each frame having the same duration time.
 # tag_type = 2 - Create GIF image with each frame having different duration time.
 
@@ -24,14 +31,14 @@ print('\nStart creating GIF image...')
 if tag_type == 1:
     ## Opt. 1 Create GIF image with each frame having the SAME duration time.
     
-    print('\nPattern: %d - Each frame has same duration time.' % tag_type)
+    print('\nPattern: %d - Each frame of GIF image has the same duration time.' % tag_type)
     
     imgGIF = []
     imgNames = sorted((iN for iN in os.listdir(input_path) if iN.endswith(img_extension)))
     # Note: 
-    #     The serial number of image name should have same length.
+    #     The serial number of image name should have the same length.
     #     E.g., _01.png _02.png ... _12.png ...
-    #     Or the sorted() function will return wrong order of image names.
+    #     Or the 'sorted()' function will return the wrong order of image names.
     
     for imgName in imgNames:
         imgGIF.append(imageio.imread(input_path + imgName))
@@ -40,14 +47,14 @@ if tag_type == 1:
 elif tag_type == 2:
     ## Opt. 2 Create GIF image with the first and the last frames having LONG duration time.
     
-    print('\nPattern: %d - Each frame has different duration time.' % tag_type)
+    print('\nPattern: %d - Each frame of GIF image has different duration time.' % tag_type)
     
     imgGIF = []
     imgNames = sorted((iN for iN in os.listdir(input_path) if iN.endswith(img_extension)))
     # Note: 
-    #     The serial number of image name should have same length.
+    #     The serial number of image name should have the same length.
     #     E.g., _01.png _02.png ... _12.png ...
-    #     Or the sorted() function will return wrong order of image names.
+    #     Or the 'sorted()' function will return the wrong order of image names.
     
     for imgName in imgNames:
         tmpName = re.split(r"[_.]", imgName)[2]  # Split image name by "_" and/or ".".
