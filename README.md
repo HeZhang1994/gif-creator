@@ -5,13 +5,13 @@
 [![image](https://img.shields.io/badge/status-stable-brightgreen.svg)]()
 [![image](https://img.shields.io/badge/build-passing-brightgreen.svg)]()
 
-This is a **Python** implementation for creating GIF image from a collection of static images (e.g., PNG).
+This is a **Python** implementation of creating GIF image from a collection of static images (e.g., PNG).
 
 ## Functions
 
-- Create GIF image with each frame has **same** duration time.
+- Create GIF image with each frame has the **same** duration time.
 
-- Create GIF image with the first and the last frame have **different** duration time.
+- Create GIF image with the first and the last frame have **different** (long) duration time.
 
 ## Usage
 
