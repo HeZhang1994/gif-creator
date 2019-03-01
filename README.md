@@ -11,7 +11,7 @@ This is a **Python** implementation of creating GIF image from a collection of s
 
 - Create GIF image with each frame having the **same** duration time.
 
-- Create GIF image with the first frame and the last frame having **different** (long) duration time.
+- Create GIF image with the first and the last frames having **different** (long) duration time.
 
 ## Usage
 
