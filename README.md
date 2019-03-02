@@ -13,6 +13,10 @@ This is a **Python** implementation of creating GIF image from a collection of s
 
 - Creating GIF image with the first and the last frames having **different** (long) duration time.
 
+## Dependency
+
+* __imageio (2.4.1)__
+
 ## Usage
 
 1. Prepare a series of static images (with ordered names) in a folder (e.g., ```Img_Frames/```).
