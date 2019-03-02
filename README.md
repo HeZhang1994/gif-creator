@@ -15,7 +15,7 @@ This is a **Python** implementation of creating GIF image from a collection of s
 
 ## Dependency
 
-* __imageio (2.4.1)__
+* __imageio__ (2.4.1)
 
 ## Usage
 
