@@ -7,7 +7,7 @@
 
 This is a **Python** implementation of creating GIF image from a collection of static images (e.g., PNG images).
 
-## Function
+## Functions
 
 - Creating GIF image with each frame having the **same** duration time.
 
@@ -27,13 +27,11 @@ This is a **Python** implementation of creating GIF image from a collection of s
 
 3. The created GIF image will be saved in the pre-specified folder (i.e., ```Img_Frames/```).
 
-## Demonstration
+## Results
 
 - GIF image with **SAME** frame duration time.
 
 ![Equivariance](https://github.com/HeZhang1994/png-to-gif/blob/master/Img_Frames/imgGIF_SAME.gif)
-
-<br>
 
 - GIF image with **DIFFERENT** frame duration time.
 
