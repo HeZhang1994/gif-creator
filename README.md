@@ -9,9 +9,9 @@ This is a **Python** implementation of creating GIF image from a collection of s
 
 ## Function
 
-- Create GIF image with each frame having the **same** duration time.
+- Creating GIF image with each frame having the **same** duration time.
 
-- Create GIF image with the first and the last frames having **different** (long) duration time.
+- Creating GIF image with the first and the last frames having **different** (long) duration time.
 
 ## Usage
 
@@ -41,5 +41,5 @@ This is a **Python** implementation of creating GIF image from a collection of s
 
 <i>如果该程序对您有帮助，请为该程序加星支持哈，非常感谢。</i>
 
-<i>Last updated: 01/03/2019</i>
+<i>Last updated: 02/03/2019</i>
 
