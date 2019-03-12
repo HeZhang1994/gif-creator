@@ -43,5 +43,5 @@ This is a **Python** implementation of creating GIF image from a collection of s
 
 <i>如果该程序对您有帮助，请为该程序加星支持哈，非常感谢。</i>
 
-<i>Last updated: 06/03/2019</i>
+<i>Last updated: 12/03/2019</i>
 
