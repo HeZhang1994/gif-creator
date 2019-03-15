@@ -25,7 +25,7 @@ This is a **Python** implementation of creating GIF image from a collection of s
 
 2. Run ```run_GIFCreator.py```.
 
-3. The created GIF image will be saved in the pre-specified folder (i.e., ```IMAGE_GIF/```).
+3. The created GIF image will be saved in the pre-specified folder (e.g., ```IMAGE_GIF/```).
 
 ## Results
 
