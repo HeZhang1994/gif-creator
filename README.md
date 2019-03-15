@@ -31,11 +31,11 @@ This is a **Python** implementation of creating GIF image from a collection of s
 
 - GIF image with **SAME** frame duration time.
 
-![Equivariance](https://github.com/HeZhang1994/png-to-gif/blob/master/Img_Frames/imgGIF_SAME.gif)
+![Equivariance](https://github.com/HeZhang1994/gif-creator/blob/master/IMAGE_GIF/imgGIF_SAME.gif)
 
 - GIF image with **DIFFERENT** frame duration time.
 
-![Equivariance](https://github.com/HeZhang1994/png-to-gif/blob/master/Img_Frames/imgGIF_DIFF.gif)
+![Equivariance](https://github.com/HeZhang1994/gif-creator/blob/master/IMAGE_GIF/imgGIF_DIFF.gif)
 
 <br>
 
