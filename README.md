@@ -21,7 +21,7 @@ This is a **Python** implementation of creating GIF image from a collection of s
 
 1. Prepare a series of static images (with ordered names) in a folder (e.g., ```IMAGE/```).
 
-2. Specify user settings (e.g., duration time) in ```run_GIFCreator.py``` (see code comments for details).
+2. Specify user settings (e.g., ```DURATION_TIME_FRAME``` and ```PATTERN_GIF_IMAGE```) in ```run_GIFCreator.py``` (see code comments for details).
 
 2. Run ```run_GIFCreator.py```.
 
@@ -29,11 +29,11 @@ This is a **Python** implementation of creating GIF image from a collection of s
 
 ## Results
 
-- GIF image with **SAME** frame duration time.
+- GIF image with **SAME** frame duration time (```PATTERN_GIF_IMAGE = 1```).
 
 ![Equivariance](https://github.com/HeZhang1994/gif-creator/blob/master/IMAGE_GIF/imgGIF_SAME.gif)
 
-- GIF image with **DIFFERENT** frame duration time.
+- GIF image with **DIFFERENT** frame duration time (```PATTERN_GIF_IMAGE = 2```).
 
 ![Equivariance](https://github.com/HeZhang1994/gif-creator/blob/master/IMAGE_GIF/imgGIF_DIFF.gif)
 
