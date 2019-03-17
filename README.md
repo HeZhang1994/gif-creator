@@ -19,11 +19,11 @@ This is a **Python** implementation of creating GIF image from a collection of s
 
 ## Usage
 
-1. Prepare a series of static images (with ordered names) in a folder (e.g., ```IMAGE/```).
+1. Prepare a collection of static images (with ordered names) in a folder (e.g., ```IMAGE/```).
 
 2. Specify user settings (e.g., ```DURATION_TIME_FRAME``` and ```PATTERN_GIF_IMAGE```) in ```run_GIFCreator.py``` (see code comments for details).
 
-2. Run ```run_GIFCreator.py```.
+2. Run ```run_GIFCreator.py``` to create GIF image.
 
 3. The created GIF image will be saved in the pre-specified folder (e.g., ```IMAGE_GIF/```).
 
@@ -43,5 +43,4 @@ This is a **Python** implementation of creating GIF image from a collection of s
 
 <i>如果该程序对您有帮助，请为该程序加星支持哈，非常感谢。</i>
 
-<i>Last updated: 16/03/2019</i>
-
+<i>Last updated: 17/03/2019</i>
