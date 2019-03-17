@@ -19,21 +19,21 @@ This is a **Python** implementation of creating GIF image from a collection of s
 
 ## Usage
 
-1. Prepare a collection of static images with ordered names (e.g., ```01.png```, ```02.png```, ...) in a folder (e.g., ```IMAGE/```).
+1. Prepare a collection of static images with ordered names (e.g., `01.png`, `02.png`, ...) in a folder (e.g., `IMAGE/`).
 
-2. Specify user settings (e.g., ```DURATION_TIME_FRAME``` and ```PATTERN_GIF_IMAGE```) in the code (see comments for details).
+2. Specify user settings (e.g., `DURATION_TIME_FRAME` and `PATTERN_GIF_IMAGE`) in the code (see comments for details).
 
-2. Run ```run_GIFCreator.py``` to create GIF image.
+2. Run `run_GIFCreator.py` to create GIF image.
 
-3. The created GIF image will be saved in the pre-specified folder (e.g., ```IMAGE_GIF/```).
+3. The created GIF image will be saved in the pre-specified folder (e.g., `IMAGE_GIF/`).
 
 ## Results
 
-- GIF image with **SAME** frame duration time (```PATTERN_GIF_IMAGE = 1```).
+- GIF image with **SAME** frame duration time (`PATTERN_GIF_IMAGE = 1`).
 
 ![Equivariance](https://github.com/HeZhang1994/gif-creator/blob/master/IMAGE_GIF/imgGIF_SAME.gif)
 
-- GIF image with **DIFFERENT** frame duration time (```PATTERN_GIF_IMAGE = 2```).
+- GIF image with **DIFFERENT** frame duration time (`PATTERN_GIF_IMAGE = 2`).
 
 ![Equivariance](https://github.com/HeZhang1994/gif-creator/blob/master/IMAGE_GIF/imgGIF_DIFF.gif)
 
