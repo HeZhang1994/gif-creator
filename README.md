@@ -39,8 +39,8 @@ This is a **Python** implementation of creating GIF image from a collection of s
 
 <br>
 
-<i>Please star this repository if you found its content useful. Thank you very much.</i>
+<i>Please star this repository if you found its content useful. Thank you very much. ^_^</i>
 
-<i>如果该程序对您有帮助，请为该程序加星支持哈，非常感谢。</i>
+<i>如果该程序对您有帮助，请为该程序加星支持哈，非常感谢。^_^</i>
 
 <i>Last updated: 18/03/2019</i>
