@@ -11,7 +11,7 @@ This is a **Python** implementation of creating GIF image from a collection of s
 
 - Creating GIF image with each frame having the **same** duration time.
 
-- Creating GIF image with the first and the last frames having **different** (long) duration time.
+- Creating GIF image with the first and the last frames having **different** (longer) duration time.
 
 ## Dependency
 
@@ -19,9 +19,9 @@ This is a **Python** implementation of creating GIF image from a collection of s
 
 ## Usage
 
-1. Prepare a collection of static images with ordered names (e.g., `01.png`, `02.png`, ...) in a folder (e.g., `IMAGE/`).
+1. Prepare a collection of static images with ordered names (e.g., `01.png`, `02.png`, etc.) in a folder (e.g., `IMAGE/`).
 
-2. Specify user settings (e.g., `DURATION_TIME_FRAME` and `PATTERN_GIF_IMAGE`) in the code (see comments for details).
+2. Specify user settings (e.g., `DURATION_TIME_FRAME`, `PATTERN_GIF_IMAGE`, etc.) in the code (see comments).
 
 2. Run `run_GIFCreator.py` to create GIF image.
 
