@@ -5,7 +5,7 @@
 [![image](https://img.shields.io/badge/status-stable-brightgreen.svg)]()
 [![image](https://img.shields.io/badge/build-passing-brightgreen.svg)]()
 
-This is a **Python** implementation of creating **GIF** image from a collection of static images (e.g., PNG images).
+This is a **Python** implementation of creating the **GIF** image of a collection of static images (e.g., PNG images).
 
 ## Functions
 
