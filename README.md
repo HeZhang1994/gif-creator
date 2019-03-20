@@ -5,13 +5,13 @@
 [![image](https://img.shields.io/badge/status-stable-brightgreen.svg)]()
 [![image](https://img.shields.io/badge/build-passing-brightgreen.svg)]()
 
-This is a **Python** implementation of creating GIF image from a collection of static images (e.g., PNG images).
+This is a **Python** implementation of creating **GIF** image from a collection of static images (e.g., PNG images).
 
 ## Functions
 
-- Creating GIF image with each frame having the **same** duration time.
+- Creating a **GIF** image with each frame having the **same** duration time.
 
-- Creating GIF image with the first and the last frames having **different** (longer) duration time.
+- Creating a **GIF** image with the first and the last frames having **different** (longer) duration time.
 
 ## Dependency
 
@@ -19,21 +19,21 @@ This is a **Python** implementation of creating GIF image from a collection of s
 
 ## Usage
 
-1. Prepare a collection of static images with ordered names (e.g., `01.png`, `02.png`, etc.) in a folder (e.g., `IMAGE/`).
+1. Prepare a collection of static images with ordered names (e.g., `01.png`, `02.png`, ...) in a folder (e.g., `IMAGE/`).
 
-2. Specify user settings (e.g., `DURATION_TIME_FRAME`, `PATTERN_GIF_IMAGE`, etc.) in the code (see comments).
+2. Specify user settings (`DURATION_TIME_FRAME`, `PATTERN_GIF_IMAGE`, etc.) in the code (see comments).
 
-2. Run `run_GIFCreator.py` to create GIF image.
+2. Run `run_GIFCreator.py` to create the GIF image of static images.
 
 3. The created GIF image will be saved in the pre-specified folder (e.g., `IMAGE_GIF/`).
 
 ## Results
 
-- GIF image with **SAME** frame duration time (`PATTERN_GIF_IMAGE = 1`).
+- The GIF image with **SAME** frame duration time (`PATTERN_GIF_IMAGE = 1`).
 
 ![Equivariance](https://github.com/HeZhang1994/gif-creator/blob/master/IMAGE_GIF/imgGIF_SAME.gif)
 
-- GIF image with **DIFFERENT** frame duration time (`PATTERN_GIF_IMAGE = 2`).
+- The GIF image with **DIFFERENT** frame duration time (`PATTERN_GIF_IMAGE = 2`).
 
 ![Equivariance](https://github.com/HeZhang1994/gif-creator/blob/master/IMAGE_GIF/imgGIF_DIFF.gif)
 
@@ -43,4 +43,4 @@ This is a **Python** implementation of creating GIF image from a collection of s
 
 <i>如果该程序对您有帮助，请为该程序加星支持哈，非常感谢。^_^</i>
 
-<i>Last updated: 18/03/2019</i>
+<i>Last updated: 20/03/2019</i>
