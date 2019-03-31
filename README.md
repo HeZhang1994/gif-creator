@@ -1,6 +1,6 @@
 # GIF Image Creator
 
-[![image](https://img.shields.io/badge/license-MIT-lightgrey.svg)]()
+[![image](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/HeZhang1994/gif-creator/blob/master/LICENSE)
 [![image](https://img.shields.io/badge/python-3.7-blue.svg)]()
 [![image](https://img.shields.io/badge/status-stable-brightgreen.svg)]()
 [![image](https://img.shields.io/badge/build-passing-brightgreen.svg)]()
@@ -43,4 +43,4 @@ This is a **Python** implementation of creating the **GIF** image of a collectio
 
 <i>如果该程序对您有帮助，请为该程序加星支持哈，非常感谢。^_^</i>
 
-<i>Last updated: 20/03/2019</i>
+<i>Last updated: 31/03/2019</i>
