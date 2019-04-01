@@ -21,8 +21,8 @@ if os.path.exists(PATH_OUTPUT_IMAGE) is False:
 FORMAT_INPUT_IMAGE = '.png'
 
 # Set the name of output GIF images.
-GIF_NAME_SAME = "imgGIF_SAME.gif"
-GIF_NAME_DIFF = "imgGIF_DIFF.gif"
+GIF_NAME_SAME = 'imgGIF_SAME.gif'
+GIF_NAME_DIFF = 'imgGIF_DIFF.gif'
 
 # Set the duration time of each frame in GIF image.
 DURATION_TIME_FRAME = 0.5
