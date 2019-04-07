@@ -23,7 +23,7 @@ This is a **Python** implementation of creating the **GIF** image of a collectio
 
 2. Specify user settings (`DURATION_TIME_FRAME`, `PATTERN_GIF_IMAGE`, etc.) in the code (see comments).
 
-2. Run `run_GIFCreator.py` to create the GIF image of static images.
+2. Run `run_GIFCreator.py` or `run_GIFCreator_ipy.ipynb` to create the GIF image of static images.
 
 3. The created GIF image will be saved in the pre-specified folder (e.g., `IMAGE_GIF/`).
 
@@ -43,4 +43,4 @@ This is a **Python** implementation of creating the **GIF** image of a collectio
 
 <i>如果该程序对您有帮助，请为该程序加星支持哈，非常感谢。^_^</i>
 
-<i>Last updated: 01/04/2019</i>
+<i>Last updated: 08/04/2019</i>
