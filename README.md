@@ -29,11 +29,11 @@ This is a **Python** implementation of creating the **GIF** image with a collect
 
 ## Results
 
-- The GIF image with **SAME** frame duration (`PATTERN = 1`).
+- The GIF image with **SAME** frame duration (`PATTERN = 1, DURATION_FRAME = 0.5`).
 
 ![Equivariance](https://github.com/HeZhang1994/gif-creator/blob/master/IMAGE_GIF/imgGIF_SAME.gif)
 
-- The GIF image with **DIFFERENT** frame duration (`PATTERN = 2`).
+- The GIF image with **DIFFERENT** frame duration (`PATTERN = 2, DURATION_FRAME = 0.5/1.5`).
 
 ![Equivariance](https://github.com/HeZhang1994/gif-creator/blob/master/IMAGE_GIF/imgGIF_DIFF.gif)
 
