@@ -42,5 +42,3 @@ This is a **Python** implementation of creating the **GIF** image with a collect
 <i>Please star this repository if you found its content useful. Thank you very much. ^_^</i>
 
 <i>如果该程序对您有帮助，请为该程序加星支持哈，非常感谢。^_^</i>
-
-<i>Last updated: /04/2019</i>
