@@ -19,9 +19,9 @@ This is a **Python** implementation of creating the **GIF** image with a collect
 
 ## Usage
 
-1. Prepare a collection of static images with ordered names (e.g., `01.png`, `02.png`, ...) in a folder (e.g., `IMAGE/`).
+1. Prepare a collection of static images with sorted names (e.g., `01.png`, `02.png`, ...) in a folder (e.g., `IMAGE/`).
 
-2. Specify user settings (`DURATION_FRAME`, `PATTERN`, etc.) in the code (see comments).
+2. Specify user settings (`DURATION_FRAME`, `PATTERN`, etc.) in the code (see comments for details).
 
 2. Run `run_GIFCreator.py` or `run_GIFCreator.ipynb` to create the GIF image with static images.
 
@@ -33,7 +33,7 @@ This is a **Python** implementation of creating the **GIF** image with a collect
 
 ![Equivariance](https://github.com/HeZhang1994/gif-creator/blob/master/IMAGE_GIF/imgGIF_SAME.gif)
 
-- The GIF image with **DIFFERENT** frame duration (`PATTERN = 2, DURATION_FRAME = 0.5/1.5`).
+- The GIF image with **DIFFERENT** frame duration (`PATTERN = 2, DURATION_FRAME = 0.5 or 1.5`).
 
 ![Equivariance](https://github.com/HeZhang1994/gif-creator/blob/master/IMAGE_GIF/imgGIF_DIFF.gif)
 
