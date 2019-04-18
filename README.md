@@ -23,7 +23,7 @@ This is a **Python** implementation of creating the **GIF** image with a collect
 
 2. Specify user settings (`DURATION_FRAME`, `PATTERN`, etc.) in the code (see comments for details).
 
-2. Run `run_GIFCreator.py` or `run_GIFCreator.ipynb` to create the GIF image with static images.
+2. Run `run_GIFCreator.py` or `run_GIFCreator_ipy.ipynb` to create the GIF image with static images.
 
 3. The created GIF image will be saved in the pre-specified folder (e.g., `IMAGE_GIF/`).
 
