@@ -3,7 +3,7 @@
 [![image](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/HeZhang1994/gif-creator/blob/master/LICENSE)
 [![image](https://img.shields.io/badge/python-3.7-blue.svg)]()
 [![image](https://img.shields.io/badge/status-stable-brightgreen.svg)]()
-[![image](https://img.shields.io/badge/build-passing-brightgreen.svg)]()
+<!--[![image](https://img.shields.io/badge/build-passing-brightgreen.svg)]()-->
 
 This is a **Python** implementation of creating the **GIF** image with a collection of static images (e.g., PNG/JPG images).
 
